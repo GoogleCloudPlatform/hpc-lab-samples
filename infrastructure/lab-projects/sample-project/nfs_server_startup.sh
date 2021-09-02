@@ -21,8 +21,6 @@ systemctl enable nfs-server rpcbind
 mkdir -p "/home"
 mkdir -p "/tools"
 
-# chmod 777 "/home" "/tools"#
-
 chmod 764 "/home" "/tools"
 
 echo '/home/ *(rw,sync,no_root_squash)' >> "/etc/exports"
