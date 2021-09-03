@@ -54,17 +54,17 @@ The lab folder sets up the landing zone for customers and enable them to spin up
 
 | lab                           |
 | ----------------------------- |
-| alerts-and-monitoring    			|
-| billing                 		  |
-| export-billing					      |
-| folder                    		|
-| landing-zone               		|
-| netapp-cvs                		|
-| nfs-server                		|
-| project                   		|
-| service-enablement        		|
-| third-party-module        		|
-
+| alerts-and-monitoring    		|
+| billing                 		|
+| export-billing			    |
+| folder                    	|
+| landing-zone               	|
+| netapp-cvs                	|
+| nfs-server                	|
+| project                   	|
+| service-enablement        	|
+| third_party       		    |
+| ----------------------------- |
 --
 ### 2.1 billing*
 This module provides alerts on mail at chosen thresholds in terms of forecasted and actual spends on the project for example it can trigger an email alert when budget is exhausted to the  levels like 25%, 50% and 75%.
