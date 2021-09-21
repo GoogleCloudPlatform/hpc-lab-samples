@@ -16,7 +16,6 @@
 
 variable "bill_account" {
   type = string
-  default = "011776-B1E987-434528"
 } 
 
 variable "project_id" {
@@ -25,7 +24,7 @@ variable "project_id" {
 
 variable "budget_name" {
   type = string
-  default = "HCL Budget"
+  default = "Lab Budget"
 }
 
 variable "amount" {
@@ -43,7 +42,7 @@ variable "currency" {
 variable "email" {
   description = "The email for notifications"
   type   = string
-  default = "zi.wangs@hcl.com"
+  default = "skhas@google.com"
 }
 
 variable "percent1" {
