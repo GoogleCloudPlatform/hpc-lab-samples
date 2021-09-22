@@ -129,13 +129,13 @@ The setup of the environment generally takes few minutes (~5-7). At the end of t
 The Google Cloud Project(s) is created for the ISV with basic compute, storage, networking and optionally a Slurm cluster. 
 
 #### ISV with Google Workspace 
- - [x] Login to [Google Cloud Console](https://consoles.cloud.google.com)
+ - [x] Login to [Google Cloud Console](https://console.cloud.google.com)
  - [x] Select the project from top drop-down
 ![post-isv-select-project-gwaccount](images/post-isv-select-project-gwaccount.png)
 
 #### ISV with no Google Workspace
 Each user in the ISV would have [received an email with credentials](##isv-onboarding)
- - [x] Login to [Google Cloud Console](https://consoles.cloud.google.com)
+ - [x] Login to [Google Cloud Console](https://.cloud.google.com)
  - [x] Click Accept
  - [x] Change Password
  - [x] Select country and click Agree
