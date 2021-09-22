@@ -135,7 +135,7 @@ The Google Cloud Project(s) is created for the ISV with basic compute, storage, 
 
 #### ISV with no Google Workspace
 Each user in the ISV would have [received an email with credentials](##isv-onboarding)
- - [x] Login to [Google Cloud Console](https://.cloud.google.com)
+ - [x] Login to [Google Cloud Console](https://console.cloud.google.com)
  - [x] Click Accept
  - [x] Change Password
  - [x] Select country and click Agree
